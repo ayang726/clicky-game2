@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #1e7e34;
+    color:white;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+li{
+    padding: .4em 1em;
+}

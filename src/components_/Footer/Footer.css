@@ -1,0 +1,11 @@
+.footer-light{
+    background-color: #23ab42;
+    min-height: 4.5em;
+}
+
+.footer-dark {
+    min-height: 3em;
+    line-height: 3em;
+    color: white;
+    background-color: #1e7e34;
+}
