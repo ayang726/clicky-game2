@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.43c2c563.chunk.css",
-    "main.js": "/clicky-game/static/js/main.bafd7821.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.bafd7821.chunk.js.map",
+    "main.css": "/clicky-game/static/css/main.50b2144a.chunk.css",
+    "main.js": "/clicky-game/static/js/main.0d300dd1.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.0d300dd1.chunk.js.map",
     "runtime~main.js": "/clicky-game/static/js/runtime~main.160f185f.js",
     "runtime~main.js.map": "/clicky-game/static/js/runtime~main.160f185f.js.map",
     "static/js/2.0b2b00b5.chunk.js": "/clicky-game/static/js/2.0b2b00b5.chunk.js",
     "static/js/2.0b2b00b5.chunk.js.map": "/clicky-game/static/js/2.0b2b00b5.chunk.js.map",
     "index.html": "/clicky-game/index.html",
-    "precache-manifest.995f2e0ccebc0f6074d2c652286deb7d.js": "/clicky-game/precache-manifest.995f2e0ccebc0f6074d2c652286deb7d.js",
+    "precache-manifest.56ca5666af6a3b696765fa8d4b496a63.js": "/clicky-game/precache-manifest.56ca5666af6a3b696765fa8d4b496a63.js",
     "service-worker.js": "/clicky-game/service-worker.js",
-    "static/css/main.43c2c563.chunk.css.map": "/clicky-game/static/css/main.43c2c563.chunk.css.map"
+    "static/css/main.50b2144a.chunk.css.map": "/clicky-game/static/css/main.50b2144a.chunk.css.map",
+    "static/media/beth.png": "/clicky-game/static/media/beth.1459edf7.png",
+    "static/media/Jumbotron.css": "/clicky-game/static/media/bg.7ad8b746.png",
+    "static/media/birdperson.png": "/clicky-game/static/media/birdperson.f4b93973.png",
+    "static/media/evilmorty.png": "/clicky-game/static/media/evilmorty.67243a28.png",
+    "static/media/gianthead.png": "/clicky-game/static/media/gianthead.33d58e9a.png",
+    "static/media/goldenford.png": "/clicky-game/static/media/goldenford.98a2f8cc.png",
+    "static/media/jerry.png": "/clicky-game/static/media/jerry.8ae281e0.png",
+    "static/media/jessica.png": "/clicky-game/static/media/jessica.573621a8.png",
+    "static/media/meeseeks.png": "/clicky-game/static/media/meeseeks.a8011517.png",
+    "static/media/morty.png": "/clicky-game/static/media/morty.0b4f73c7.png",
+    "static/media/mr.png": "/clicky-game/static/media/mr.5a3b9b8a.png",
+    "static/media/rick.png": "/clicky-game/static/media/rick.5065d79a.png",
+    "static/media/summer.png": "/clicky-game/static/media/summer.3a86ea87.png"
   }
 }
